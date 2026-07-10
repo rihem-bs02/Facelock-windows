@@ -1,8 +1,11 @@
 # FaceLook
 
 FaceLook is a biometric authentication prototype that combines a Python-based face authentication service, a desktop administration UI, camera-based enrollment, and a Windows credential-provider prototype. The project is intended as a proof of concept for secure, local biometric identity workflows rather than a production-ready security product.
-<img src="images/image.png" alt="FaceLook Screenshot" width="400">
-<img src="images/imag1e.png" alt="FaceLook Screenshot" width="400">
+<p align="center">
+  <img src="images/image.png" alt="FaceLook Screenshot" width="400">
+</p><p align="center">
+  <img src="images/image1.png" alt="FaceLook Screenshot" width="400">
+</p>
 ## Project overview
 
 FaceLook provides:
@@ -123,9 +126,13 @@ The GUI provides a dashboard for:
 - enrolling new faces
 - reviewing authentication logs
 - checking service status
-<img src="images/1.png" alt="FaceLook Screenshot" width="200">
-<img src="images/2.png" alt="FaceLook Screenshot" width="200">
-<img src="images/3.png" alt="FaceLook Screenshot" width="200">
+<p align="center">
+  <img src="images/1.png" alt="FaceLook Screenshot" width="400">
+</p><p align="center">
+  <img src="images/2.png" alt="FaceLook Screenshot" width="400">
+</p><p align="center">
+  <img src="images/3.png" alt="FaceLook Screenshot" width="400">
+</p>
 > If the Python modules are not available in the runtime environment, the UI can fall back to demo-mode stub data.
 
 ### Windows-specific notes
