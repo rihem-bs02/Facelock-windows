@@ -4,7 +4,7 @@ FaceLook is a biometric authentication prototype that combines a Python-based fa
 <p align="center">
   <img src="images/image.png" alt="FaceLook Screenshot" width="600">
 </p><p align="center">
-  <img src="images/image1.png" alt="FaceLook Screenshot" width="400">
+  <img src="images/image1.png" alt="FaceLook Screenshot" width="600">
 </p>
 ## Project overview
 
@@ -127,11 +127,11 @@ The GUI provides a dashboard for:
 - reviewing authentication logs
 - checking service status
 <p align="center">
-  <img src="images/1.png" alt="FaceLook Screenshot" width="400">
+  <img src="images/1.png" alt="FaceLook Screenshot" width="600">
 </p><p align="center">
-  <img src="images/2.png" alt="FaceLook Screenshot" width="400">
+  <img src="images/2.png" alt="FaceLook Screenshot" width="600">
 </p><p align="center">
-  <img src="images/3.png" alt="FaceLook Screenshot" width="400">
+  <img src="images/3.png" alt="FaceLook Screenshot" width="600">
 </p>
 > If the Python modules are not available in the runtime environment, the UI can fall back to demo-mode stub data.
 
