@@ -6,6 +6,9 @@ FaceLook is a biometric authentication prototype that combines a Python-based fa
 </p><p align="center">
   <img src="images/image1.png" alt="FaceLook Screenshot" width="600">
 </p>
+</p><p align="center">
+  <img src="images/4.png" alt="FaceLook Screenshot" width="600">
+</p>
 ## Project overview
 
 FaceLook provides:
