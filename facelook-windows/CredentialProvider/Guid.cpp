@@ -1,0 +1,10 @@
+#include "Guid.h"
+
+// {A61A7F8D-0A9B-4D6A-9B30-5F7C6B8A1011}
+const CLSID CLSID_FaceLookCredentialProvider =
+{
+    0xa61a7f8d,
+    0x0a9b,
+    0x4d6a,
+    { 0x9b, 0x30, 0x5f, 0x7c, 0x6b, 0x8a, 0x10, 0x11 }
+};
